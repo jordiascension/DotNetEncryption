@@ -32,6 +32,7 @@
             txtData = new TextBox();
             label1 = new Label();
             btnEncryptionRsa = new Button();
+            btnHash = new Button();
             SuspendLayout();
             // 
             // btnAES
@@ -70,11 +71,22 @@
             btnEncryptionRsa.UseVisualStyleBackColor = true;
             btnEncryptionRsa.Click += btnEncryptionRsa_Click;
             // 
+            // btnHash
+            // 
+            btnHash.Location = new Point(668, 229);
+            btnHash.Name = "btnHash";
+            btnHash.Size = new Size(219, 34);
+            btnHash.TabIndex = 4;
+            btnHash.Text = "Encryption with Hash";
+            btnHash.UseVisualStyleBackColor = true;
+            btnHash.Click += btnHash_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(933, 450);
+            Controls.Add(btnHash);
             Controls.Add(btnEncryptionRsa);
             Controls.Add(label1);
             Controls.Add(txtData);
@@ -92,5 +104,6 @@
         private TextBox txtData;
         private Label label1;
         private Button btnEncryptionRsa;
+        private Button btnHash;
     }
 }
