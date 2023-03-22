@@ -1,0 +1,17 @@
+C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\DotnetCoreCryptography\bin\Debug\net7.0-windows\DotnetCoreCryptography.exe
+C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\DotnetCoreCryptography\bin\Debug\net7.0-windows\DotnetCoreCryptography.deps.json
+C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\DotnetCoreCryptography\bin\Debug\net7.0-windows\DotnetCoreCryptography.runtimeconfig.json
+C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\DotnetCoreCryptography\bin\Debug\net7.0-windows\DotnetCoreCryptography.dll
+C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\DotnetCoreCryptography\bin\Debug\net7.0-windows\DotnetCoreCryptography.pdb
+C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\DotnetCoreCryptography\obj\Debug\net7.0-windows\DotnetCoreCryptography.csproj.AssemblyReference.cache
+C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\DotnetCoreCryptography\obj\Debug\net7.0-windows\DotnetCoreCryptography.Form1.resources
+C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\DotnetCoreCryptography\obj\Debug\net7.0-windows\DotnetCoreCryptography.csproj.GenerateResource.cache
+C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\DotnetCoreCryptography\obj\Debug\net7.0-windows\DotnetCoreCryptography.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\DotnetCoreCryptography\obj\Debug\net7.0-windows\DotnetCoreCryptography.AssemblyInfoInputs.cache
+C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\DotnetCoreCryptography\obj\Debug\net7.0-windows\DotnetCoreCryptography.AssemblyInfo.cs
+C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\DotnetCoreCryptography\obj\Debug\net7.0-windows\DotnetCoreCryptography.csproj.CoreCompileInputs.cache
+C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\DotnetCoreCryptography\obj\Debug\net7.0-windows\DotnetCoreCryptography.dll
+C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\DotnetCoreCryptography\obj\Debug\net7.0-windows\refint\DotnetCoreCryptography.dll
+C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\DotnetCoreCryptography\obj\Debug\net7.0-windows\DotnetCoreCryptography.pdb
+C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\DotnetCoreCryptography\obj\Debug\net7.0-windows\DotnetCoreCryptography.genruntimeconfig.cache
+C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\DotnetCoreCryptography\obj\Debug\net7.0-windows\ref\DotnetCoreCryptography.dll
