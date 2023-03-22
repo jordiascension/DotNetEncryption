@@ -31,6 +31,7 @@
             btnAES = new Button();
             txtData = new TextBox();
             label1 = new Label();
+            btnEncryptionRsa = new Button();
             SuspendLayout();
             // 
             // btnAES
@@ -47,7 +48,7 @@
             // 
             txtData.Location = new Point(290, 144);
             txtData.Name = "txtData";
-            txtData.Size = new Size(343, 31);
+            txtData.Size = new Size(479, 31);
             txtData.TabIndex = 1;
             // 
             // label1
@@ -59,11 +60,22 @@
             label1.TabIndex = 2;
             label1.Text = "Data";
             // 
+            // btnEncryptionRsa
+            // 
+            btnEncryptionRsa.Location = new Point(410, 229);
+            btnEncryptionRsa.Name = "btnEncryptionRsa";
+            btnEncryptionRsa.Size = new Size(207, 34);
+            btnEncryptionRsa.TabIndex = 3;
+            btnEncryptionRsa.Text = "Encryption with RSA";
+            btnEncryptionRsa.UseVisualStyleBackColor = true;
+            btnEncryptionRsa.Click += btnEncryptionRsa_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(933, 450);
+            Controls.Add(btnEncryptionRsa);
             Controls.Add(label1);
             Controls.Add(txtData);
             Controls.Add(btnAES);
@@ -79,5 +91,6 @@
         private Button btnAES;
         private TextBox txtData;
         private Label label1;
+        private Button btnEncryptionRsa;
     }
 }
